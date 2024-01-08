@@ -11,13 +11,14 @@ body {
 }
 /* Banner section style start */
 header {
-  background-image: url(/resources/Banner\ Image.png);
+  background-image: url(../resources/Banner\ Image.png);
   background-repeat: no-repeat;
   background-position: center center;
   width: 1320px;
   height: 600px;
   margin: 0 auto;
 }
+
 .banner-title1 {
   color: #fff;
   text-align: center;
@@ -87,7 +88,7 @@ header {
   max-width: 700px;
 }
 .mid-night {
-  background-image: url(/resources/Vectorrr.png);
+  background-image: url(../resources/Vectorrr.png);
   background-repeat: no-repeat;
   background-position: center;
   min-width: 1320px;
